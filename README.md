@@ -23,3 +23,5 @@ WHERE CONDITION = NET
 |Name | Gender | Occupation |
 | --- | ------ | ---------- |
 | Jerry | Male | Data Analyst |
+
+![FCB-Welcome-Onboard](https://github.com/Oga-J/FCB-DATA-Documentation/assets/171019600/ad74d25a-3517-492d-983e-630594548dbd)
